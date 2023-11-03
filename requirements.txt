@@ -1,0 +1,6 @@
+supabase
+python-dotenv
+ipykernel
+langchain
+openai
+tiktoken
